@@ -20,7 +20,7 @@ A responsive, animation-rich portfolio website built with plain HTML, CSS, and J
 - Hamza Ghulam Rasool
 - hamzarasool977@gmail.com
 - +92 316 557 4196
-- Punjab, Pakistan
+- Islamabad, Pakistan
 
 ## Before publishing
 - Replace the generic GitHub link (`https://github.com/`) with your exact profile URL.
